@@ -1,0 +1,11 @@
+Google.com,Search Engine
+target.com,Shopping
+walmart.com,Shopping
+Autozone.com,Shopping
+Amazom.com,Shopping
+facebook.com,Social Media
+twitter.com,Social Media
+instagram.com,Social Media
+Yahoo.com,News Media
+espn.com,sports
+Yahoosports.com,sports
